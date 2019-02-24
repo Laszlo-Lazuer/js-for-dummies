@@ -18,7 +18,7 @@
   "homepage": "https://github.com/Laszlo-Lazuer/js-for-dummies#readme",
   "devDependencies": {
     "browser-sync": "^2.26.3",
-    "gulp": "^3.0",
+    "gulp": "^3.0.0",
     "gulp-sass": "^4.0.2",
     "gulp-sass-lint": "^1.4.0",
     "node-sass": "^4.11.0"
