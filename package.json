@@ -21,6 +21,6 @@
     "gulp": "^3.0.0",
     "gulp-sass": "^4.0.2",
     "gulp-sass-lint": "^1.4.0",
-    "node-sass": "^4.11.0"
+    "node-sass": "^4.13.1"
   }
 }
